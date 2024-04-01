@@ -44,3 +44,54 @@ ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
 WARNING:Comm:No such comm: d50c2bcc-5f9d-4ceb-88c8-c54dbb832aa5
 ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
 WARNING:Comm:No such comm: 15c3a346-2703-46dd-b71c-5aa2ab6be32f
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 7f9c9af7-8b0d-4662-8a7b-b9e00836cc78
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: da06c589-0992-4884-8f07-ef6f9dc1c26a
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 6eb2b099-3930-48c7-b1fb-1aaf25c6f118
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 02b690c7-bf4c-41e3-aecc-bddbf64a8707
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 969fe3e5-c5dc-45bc-b51d-bfb6e613513a
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 0d971549-a04f-4f4a-8d1b-fd3720d460ca
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 6160d21b-de81-4e9b-a96e-12fe5f456fc9
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: d930ef1b-1ddf-4d85-88f8-d0a46054943e
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: d74cf2b6-e36c-407e-ba70-5c1e55bbf88a
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: f4dda77c-7347-4328-a8c7-e4288a6221e9
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 957cbd58-73e3-47e8-bcd4-3d4ae323f125
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 1f8ed1e3-b749-409b-8613-29a9b2ee0a8c
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: bdb78887-5ecc-4ae9-8ae5-466029e91127
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 9e1a3192-ac26-4633-b1bb-02e420ba185f
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: a3b9192a-8a2f-4c48-adc1-b7f4d080c7b0
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 3541d9e5-6870-4f22-b9a9-a0840d696854
+INFO:__main__:Log Started: Weather Project
+INFO:__main__:	 SQL Connection Initiated
+INFO:__main__:	 SQL Connection Initiated
+INFO:__main__:	 SQL Connnection was successful for weather data.
+INFO:__main__:Data Ingestion: started in Weather Project
+INFO:__main__:	2024-03-29 22:16:41.871574 : Starting Ingestion into MySQL from wx_data
+INFO:__main__:	Number of records ingested in weather_records table : 1729957
+INFO:__main__:	2024-03-30 00:24:54.048872 : Stopping Ingestion into MySQL from wx_data
+INFO:__main__:Data Analysis Started.
+INFO:__main__:	Building dataframe by reading data from MySQL
+INFO:__main__:	Copying into new dataframe.
+INFO:__main__:	Adding anothor column 'year' into newdf
+INFO:__main__:	removing record_date column from newdf
+INFO:__main__:	Inserting result into station_records table.
+INFO:__main__:	Reading results from MySQL station_results table
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 5038e3c6-4822-45f0-bad9-84198a9a3399
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: aa146b2a-0095-4c87-991f-29b752af1815

@@ -1,8 +1,8 @@
 -- WRITING A SCRIPT FOR CREATING tAble for  
-DROP DATABASE IF EXISTS WeatherDB;
+-- DROP DATABASE IF EXISTS WeatherDB;
 
 -- DROPPING the user
--- DROP USER IF EXISTS 'root'@'localhost';
+-- DROP USER IF EXISTS 'varun'@'localhost';
 
 -- CREATE A NEW DATABASE NAME WeatherDB 
 CREATE DATABASE WeatherDB;

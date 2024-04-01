@@ -122,7 +122,7 @@ app.register_blueprint(swaggerui_blueprint, url_prefix=SWAGGER_URL)
 def get_db_connection():
     connection = pymysql.connect(host='localhost',
                                  user='root',
-                                 password='Varun@77',
+                                 password='12345',
                                  db='weatherdb',
                                  charset='utf8mb4',
                                  cursorclass=pymysql.cursors.DictCursor)
